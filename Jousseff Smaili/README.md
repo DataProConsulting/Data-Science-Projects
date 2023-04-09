@@ -1,5 +1,5 @@
-# Data-Science-Projects
-The following repository showcases several completed data science projects that demonstrate my proficiency in the field.
+# Data Science Projects
+The fol owing repository showcases several completed data science projects that demonstrate my proficiency in the field.
 
 # 1) Time Series Forecasting with Python
 In this project, I explored the field of time series forecasting using Python. Time series data is a type of data that is collected over time and has a sequential order. Forecasting this type of data can be challenging due to its complex nature and the presence of trends, seasonality, and other patterns.
