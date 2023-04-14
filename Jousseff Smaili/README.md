@@ -1,8 +1,8 @@
 # Jousseff Smaili
 
-- Business Management
+- Business Management Bachelor Degree and Data Science Master Degree
 - 6 years of experience
-- Financial services , Retail, Automation, Projects
+- Financial services , Data Analysis, Machine Learning , Retail, Automation, Projects
 
 # Data Science Projects
 The following repository showcases several completed data science projects that demonstrate my proficiency in the field.
