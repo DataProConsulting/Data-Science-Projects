@@ -1,4 +1,21 @@
-# 1) Demand Estimation using Python
+
+![FOTOCV](https://user-images.githubusercontent.com/130266232/232149354-ff597f94-d555-42f4-90ea-b9ae11bac626.jpeg)
+
+
+
+
+
+
+
+# EDUARDO OLIVARES
+- Industrial Engineer
+- 15 years of professional experience
+- Sectors: Retail, Entertainment, Industrial, Commercial, Logistics
+
+
+## DATA SCIENCE RELATED PROJECTS
+
+### 1) Demand Forecasting using Python
 In this project, I worked on demand estimation using Python. The goal of this project was to estimate the demand for a universe of 2000 products with varying demands and purchase periods throughout the year. The ultimate aim was to reduce stockout costs and replenishment times.
 
 To achieve this goal, I used the following techniques:
@@ -13,7 +30,8 @@ The dataset used for this project contained information on product demand and pu
 
 Through this project, I gained valuable experience in demand estimation using Python and learned how to leverage different tools and techniques to improve inventory management and reduce stockout costs.
 
-# 2) Raw Material Inventory Analysis for Product Assembly
+
+### 2) Raw Material Inventory Analysis for Product Assembly
 In this project, I worked on analyzing the inventory of raw materials required for assembling each product. The aim of this project was to reconcile the finished product stock with the corresponding raw material stock, generating a list of parts required for each product. I used Python, R Studio, and Colab to build the necessary tools and scripts.
 
 To achieve this goal, I used the following techniques:
@@ -28,7 +46,7 @@ To achieve this goal, I used the following techniques:
 
 Through this project, I gained valuable experience in inventory analysis and optimization using Python, R Studio, and Colab. I also learned how to leverage different tools and techniques to optimize inventory levels and streamline production processes.
 
-# 3) Executive Dashboards for Managerial Decision Making
+### 3) Executive Dashboards for Decision Making
 In this project, I worked on building executive dashboards to support managerial decision making. The goal of this project was to generate Key Performance Indicators (KPIs) for each area and present them in a report using Data Studio. The information was extracted from various sources, including databases, plain text, Excel spreadsheets, and ERP systems.
 
 To achieve this goal, I used the following techniques:
