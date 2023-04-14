@@ -1,3 +1,9 @@
+# Jousseff Smaili
+
+- Business Management
+- 6 years of experience
+- Financial services , Retail, Automation, Projects
+
 # Data Science Projects
 The following repository showcases several completed data science projects that demonstrate my proficiency in the field.
 
